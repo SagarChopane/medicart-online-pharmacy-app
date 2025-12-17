@@ -72,6 +72,5 @@ src/
 ├── main.jsx
 ```
 
-🔗 Deployed Link
-```bash
+🔗 Deployed Link--
 https://bright-wisp-55cb10.netlify.app/

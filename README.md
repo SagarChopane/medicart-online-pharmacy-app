@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 💊 Online Medicine Shop
 
 A modern and responsive **React + Vite** application for browsing medicines, filtering products, and managing a shopping cart.  
